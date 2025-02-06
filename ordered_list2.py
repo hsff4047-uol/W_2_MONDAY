@@ -8,4 +8,4 @@ def get_ordered_list(lst=None):
 if __name__ == '__main__':
     # Test the function locally
     print(get_ordered_list())
-```
+
